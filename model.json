@@ -1,0 +1,76 @@
+{"books":[
+    {
+    "id":"0",
+    "authors":"'Fain Yakov, Moiseev Anton",
+    "title":"Angular2 Development with TypeScript",
+    "description":"A very good book!",
+    "year":"2017",
+    "pictureUrl":"assets/pictures/complex.jpg",
+    "price":24.99,
+    "rsating":0,
+    "shops":["Landers"]
+},
+    {
+    "id":"1",
+    "authors":"Simpson Kyle",
+    "title": "this&Object.prototypes Scopes&Closures",
+    "description":"A nice",
+    "year":"2019",
+    "pictureUrl":"assets/pictures/async.jpg",
+    "price":24.99,
+    "rating":3,
+    "shops":["Beruta, Landera"]
+    },
+    {
+        "id":"2",
+"authors":"Holmes Simon",
+"title":"Getting MEAN with Mongo, Express, Angular, and Node",
+"descriptiion":"A smart-snart",
+"year":"2017",
+"pictureUrl":"assets/pictures/async.jpg",
+"ptice":54.99,
+"rating":2,
+"shops":["Lander, Beruta"]
+    },
+    {
+        "id":"3",
+"authors":"Simpson Kyle",
+"title":"this&Object.prototypes Scopes&Closures",
+"description":"A well-well",
+"year":"2019",
+"pictureUrl":"assets/pictures/css_short.jpg",
+"price":25.99,
+"rating":3,
+"shops":["Nezaleznasci,17"]
+},
+{
+    "id":"4",
+"authors":"Keith J.Grant",
+"title":"CSS in Depth",
+"description":"A well-well",
+"year":"2021",
+"pictureUrl":"assets/pictures/node_first.jpg",
+"price":85.99,
+"rating":4.5,
+"shops":["Nezaleznasci,17"]
+}
+],
+"reviews":[
+    {
+    "id":"0",
+    "bookId":"0",
+    "timestamp":"2014-05-20",
+    "user":"User1",
+    "rating":3,
+    "comment":"No"
+    },
+    {
+    "id":"1",
+    "bookId":"1",
+    "timestamp":"2015-01-01",
+    "user":"User2",
+    "rating": 5,
+    "cooment":"No p"
+    }
+  ] 
+}
